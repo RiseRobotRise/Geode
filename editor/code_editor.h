@@ -256,7 +256,6 @@ public:
 	void validate_script();
 
 	void show_toggle_scripts_button();
-	void update_toggle_scripts_button();
 
 	CodeTextEditor();
 };
