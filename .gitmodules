@@ -1,0 +1,3 @@
+[submodule "modules/natal"]
+	path = modules/natal
+	url = https://github.com/yaelatletl/natal.git
